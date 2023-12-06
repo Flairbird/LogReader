@@ -10,7 +10,11 @@ CSV Output: Export processed data into CSV files, one for each channel.
 ### Prerequisites
 Ensure you have Python 3.x installed on your system. Additionally, you will need matplotlib for plotting:
 
-    pip install matplotlib
+
+1. Using PyCharm, Click Python Packages at the bottom of the window
+
+2. Search for matplotlib and Click install on the right of the window
+
 ### Installation
 Clone the repository or download the source code:
 
