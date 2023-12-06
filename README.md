@@ -20,7 +20,7 @@ Place your log file in the same directory as the script, or provide the path to 
 
 Run the script in a Python environment:
 
-    python log_reader.py
+    python LogReader.py
 Enter the log file name at the prompt.
 
 ## Usage
